@@ -1,0 +1,14 @@
+name: AR CALLS | Teleconferencing in AR
+layout_spectrum: 0.28370070818122817
+typography_spectrum: 0.3968791185119306
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.3242463728585365
+  lightness: 0.23475269813959376
+  saturation: 0.905625693255234
+  rhythmicContrast: 0.19056425843623848
